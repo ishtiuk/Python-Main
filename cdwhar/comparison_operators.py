@@ -1,0 +1,12 @@
+# a = (14 < 7)
+# print(a)
+# a = (14 > 7)
+# print(a)
+# a = (14 <= 7)
+# print(a)
+# a = (14 >= 7)
+# print(a)
+# a = (14 != 7)
+# print(a)
+print(14 > 7)
+#comparison operators returns a boolean "True" or "False"

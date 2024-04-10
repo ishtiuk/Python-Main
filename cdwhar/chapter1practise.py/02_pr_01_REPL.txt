@@ -1,0 +1,3 @@
+REPL =  read-eval-print-loop 
+ 
+it is used to instantly in cmd or powershell to see an output of a script or program.
